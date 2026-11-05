@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Replication code for: Extreme winners, not special memes? No robust evidence of a meme-specific long-run reversal after the 2021 retail squeeze"
+authors:
+  - family-names: Cherubini
+    given-names: Jason
+    affiliation: "Loyola University Maryland"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Extreme winners, not special memes? No robust evidence of a meme-specific long-run reversal after the 2021 retail squeeze"
+  authors:
+    - family-names: Cherubini
+      given-names: Jason
+      affiliation: "Loyola University Maryland"
+  journal: "Review of Behavioral Finance"
+  year: 2026
+  doi: "10.1108/RBF-06-2026-0335"
+  url: "https://doi.org/10.1108/RBF-06-2026-0335"

@@ -1,0 +1,8 @@
+# Analysis pipeline (verified with the versions in VERIFICATION.md)
+pandas
+numpy
+scipy
+python-dateutil
+# WRDS pull scripts only
+wrds
+statsmodels

@@ -1,0 +1,12 @@
+# Licensed data must never be committed
+*.csv
+*.parquet
+*.pkl
+*.xlsx
+wrds_data/
+v13_outputs/
+placebo_data*/
+# Python
+__pycache__/
+*.pyc
+.DS_Store
